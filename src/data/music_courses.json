@@ -1,0 +1,94 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Unlocking Your Vocal Potential",
+        "description": "Learn essential vocal techniques to enhance your singing abilities in this interactive webinar with vocal coach Sarah Johnson.",
+        "image": "https://images.unsplash.com/photo-1635927895729-5ac66f9e3669?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "instructor": "Sarah Johnson",
+        "duration": "2 hours",
+        "level": "Beginner/Intermediate",
+        "price": "$49.99"
+      },
+      {
+        "id": 2,
+        "title": "Mastering Music Theory: From Basics to Beyond",
+        "description": "Demystify music theory and gain valuable skills to become a more well-rounded musician in this comprehensive webinar series led by music educator David Lee.",
+        "image": "https://images.unsplash.com/photo-1488376739361-ed24c9beb6d0?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "instructor": "David Lee",
+        "duration": "4 weeks (1 session per week)",
+        "level": "Intermediate/Advanced",
+        "price": "$199.99"
+      },
+      {
+        "id": 3,
+        "title": "The Art of Songwriting: Crafting Memorable Melodies and Lyrics",
+        "description": "Discover songwriting secrets and learn how to write compelling melodies and lyrics in this engaging webinar with songwriter Emma Thompson.",
+        "image": "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "instructor": "Emma Thompson",
+        "duration": "3 hours",
+        "level": "Intermediate",
+        "price": "$79.99"
+      },
+      {
+        "id": 4,
+        "title": "Exploring Jazz: A Journey Through the Great American Songbook",
+        "description": "Explore the rich history of jazz from swing to fusion in this captivating webinar series led by jazz aficionado Michael Davis.",
+        "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RXhwbG9yaW5nJTIwSmF6enxlbnwwfHwwfHx8MA%3D%3D",
+        "instructor": "Michael Davis",
+        "duration": "6 weeks (1 session per week)",
+        "level": "Beginner/Intermediate",
+        "price": "$249.99"
+      },
+      {
+        "id": 5,
+        "title": "Navigating the Music Industry: Tips for Emerging Artists",
+        "description": "Get insider tips and practical advice for navigating the music industry as an emerging artist in this insightful webinar featuring industry professionals.",
+        "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fE5hdmlnYXRpbmclMjB0aGUlMjBNdXNpYyUyMEluZHVzdHJ5fGVufDB8fDB8fHww",
+        "duration": "2 hours",
+        "level": "All Levels",
+        "price": "$29.99"
+      },
+      {
+        "id": 6,
+        "title": "The Power of Performance: Overcoming Stage Fright and Connecting with Your Audience",
+        "description": "Overcome stage fright and connect authentically with your audience in this empowering webinar led by performance coach Olivia Martinez.",
+        "image": "https://images.unsplash.com/photo-1513614804160-44b4560c8acf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8T3ZlcmNvbWluZyUyMFN0YWdlfGVufDB8fDB8fHww",
+        "instructor": "Olivia Martinez",
+        "duration": "1.5 hours",
+        "level": "All Levels",
+        "price": "$39.99"
+      },
+      {
+        "id": 7,
+        "title": "Exploring Jazz: A Journey Through the Great American Songbook",
+        "description": "Explore the rich history of jazz from swing to fusion in this captivating webinar series led by jazz aficionado Michael Davis.",
+        "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RXhwbG9yaW5nJTIwSmF6enxlbnwwfHwwfHx8MA%3D%3D",
+        "instructor": "Michael Davis",
+        "duration": "6 weeks (1 session per week)",
+        "level": "Beginner/Intermediate",
+        "price": "$249.99"
+      },
+      {
+        "id": 8,
+        "title": "Navigating the Music Industry: Tips for Emerging Artists",
+        "description": "Get insider tips and practical advice for navigating the music industry as an emerging artist in this insightful webinar featuring industry professionals.",
+        "image": "",
+        "instructor": "Panel of Industry Professionals",
+        "duration": "2 hours",
+        "level": "All Levels",
+        "price": "$29.99"
+      },
+      {
+        "id": 9,
+        "title": "The Power of Performance: Overcoming Stage Fright and Connecting with Your Audience",
+        "description": "Overcome stage fright and connect authentically with your audience in this empowering webinar led by performance coach Olivia Martinez.",
+        "image": "https://images.unsplash.com/photo-1513614804160-44b4560c8acf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8T3ZlcmNvbWluZyUyMFN0YWdlfGVufDB8fDB8fHww",
+        "instructor": "Olivia Martinez",
+        "duration": "1.5 hours",
+        "level": "All Levels",
+        "price": "$39.99"
+      }
+    ]
+  }
+  
