@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
 
-export default function () {
+export default function Footer() {
     return (
         <div>
             <footer className="bg-white dark:bg-gray-900">

@@ -12,7 +12,7 @@ export default function page() {
         <h2 className="text-4xl font-bold text-center mt-[150px]">All Courses({courses.courses.length})</h2>
         <div className="flex flex-wrap justify-center">
             {courses.courses.map((course) => (
-                <CardContainer className="inter-var h-[450px] p-10">
+                <CardContainer key={course.id} className="inter-var h-[450px] p-10">
                 <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
                   <CardItem
                     translateZ="50"
